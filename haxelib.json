@@ -1,9 +1,9 @@
 {
 	"name" : "haxe-format-tpjsaa",
-	"license" : "zlib",
-	"url" : "https://github.com/sh-dave/haxe-format-tpjsaa",
-	"contributors" : ["sh-dave"],
+	"url" : "https://github.com/sh-dave/haxe-format-tpjsaa.git",
+	"classPath": "src",
 	"dependencies": {
 		"tink_json": ""
-	}
+	},
+	"license" : "zlib"
 }

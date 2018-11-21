@@ -1,4 +1,4 @@
-package format.tpjsaa;
+package format.tpjsaa.types;
 
 typedef Frame = {
 	filename: String,
@@ -8,19 +8,4 @@ typedef Frame = {
 	sourceSize: { w: Int, h: Int },
 	spriteSourceSize: { x: Int, y: Int, w: Int, h: Int },
 	trimmed: Bool,
-}
-
-typedef Meta = {
-	app: String,
-	format: String,
-	image: String,
-	scale: String,
-	size: { w: Int, h: Int },
-	smartupdate: String,
-	version: String,
-}
-
-typedef Atlas = {
-	frames: Array<Frame>,
-	meta: Meta,
 }
