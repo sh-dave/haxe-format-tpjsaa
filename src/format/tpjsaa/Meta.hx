@@ -1,4 +1,4 @@
-package format.tpjsaa.types;
+package format.tpjsaa;
 
 typedef Meta = {
 	app: String,

@@ -2,8 +2,5 @@
 	"name" : "haxe-format-tpjsaa",
 	"url" : "https://github.com/sh-dave/haxe-format-tpjsaa.git",
 	"classPath": "src",
-	"dependencies": {
-		"tink_json": ""
-	},
 	"license" : "zlib"
 }
